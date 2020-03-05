@@ -1,0 +1,74 @@
+body, html {
+    height: 100%;
+}
+
+.i1{
+	width: 100%;
+	height: auto;
+}
+
+label{
+	font-weight: bold;
+}
+
+#message{
+	height: 140px;
+	margin-bottom: 40px;
+}
+
+.contact_msg{
+	font-weight: bold;
+	font-size: 35px;
+	padding: 20px;
+	text-align: center;
+}
+
+.contact_bg{
+	height: 100%;
+	background-image: url("../images/contact_bg.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.contact_middle{
+	position:absolute;
+	width: 60%;
+    top: 50%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+	margin-bottom: -5px;
+	margin-right: -50%;
+	
+	border:0px solid #fff;
+    -webkit-box-shadow: 10px 2px 22px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 2px 22px 0px rgba(0,0,0,0.75);
+	box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+.contact_left{
+	width: 50%;
+	padding:0;
+	background-color: #282828;
+	text-align: center;
+	display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.contact_right{
+	width: 50%;
+	background-color: white;
+	padding: 20px;
+}
+
+.contact_end{
+	background-color: #282828;
+	padding: 10px;
+}
+
+.contact_end p{
+	color: #c1c1c1;
+	font-weight: bold;
+	font-size: 20px;
+}

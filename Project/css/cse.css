@@ -1,0 +1,46 @@
+/* .main {
+    margin-left: 160px;
+    padding: 0px 10px;
+} 
+
+.sidenav {
+	padding-top: 66px;
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #757575;
+    overflow-x: hidden;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+	width: 100%
+    text-decoration: none;
+    font-size: 25px;
+    color: #F5F5F5;
+    display: block;
+}
+
+.sidenav a:hover {
+    background-color: #546E7A;
+}
+*/
+
+.dropdown-menu a{
+	color: black;
+}
+
+h2{
+	margin-top: 70px;
+}
+
+.container-fluid h1{
+	background-color: #cecece; 
+	text-align:center; 
+	font-weight:bold;
+	padding: 10px;
+}
+

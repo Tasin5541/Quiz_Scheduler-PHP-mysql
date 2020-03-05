@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+   
+    background: url("../images/bgr.jpg");
+    height:100%;
+	width:100%;
+    margin-top: 70px;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-family:sans-serif;
+	color:#fff;
+}
+h1 {
+    text-align: center;
+}
+
+.form-container{border:0px solid #fff; padding:20px 60px; margin-top:50px;
+-webkit-box-shadow: 10px 2px 22px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 2px 22px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+
+

@@ -1,0 +1,31 @@
+html{
+	height:100%;
+}
+body {
+   
+    background: url("../images/msg_bg.jpg");
+    height:100%;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+	border:0px solid #fff;
+	margin-top : 20px;
+	margin-bottom : 20px;
+    -webkit-box-shadow: 10px 2px 22px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 2px 22px 0px rgba(0,0,0,0.75);
+	box-shadow: 1px 1px 10px -1px rgba(0,0,0,0.75);
+	padding-left: 50px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+p{
+	    margin-bottom: 4px;
+}
